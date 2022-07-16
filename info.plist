@@ -176,7 +176,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Open GitHub by PR or Issue number</string>
 	<key>uidata</key>
 	<dict>
 		<key>4009313D-8361-4D7D-A390-F89955B6B9AC</key>
@@ -221,7 +221,7 @@
 		<string>repository</string>
 	</array>
 	<key>version</key>
-	<string></string>
+	<string>1.1.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/yskoht/alfred-open-github</string>
 </dict>
