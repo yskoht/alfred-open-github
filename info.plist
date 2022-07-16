@@ -50,7 +50,7 @@
 	<key>createdby</key>
 	<string>yskoht</string>
 	<key>description</key>
-	<string>Show GitHub PR or Issue</string>
+	<string>Open GitHub PR or Issue</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
