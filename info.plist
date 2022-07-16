@@ -4,6 +4,8 @@
 <dict>
 	<key>bundleid</key>
 	<string>alfred-open-github.yskoht.com.github</string>
+	<key>category</key>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>A2519EAC-75AD-4309-8B8F-0FAB75722BA9</key>
