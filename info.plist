@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>alfred-open-github.yskoht.com.github</string>
+	<key>connections</key>
+	<dict/>
+	<key>createdby</key>
+	<string>yskoht</string>
+	<key>description</key>
+	<string>Show GitHub PR or Issue</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Open GitHub</string>
+	<key>objects</key>
+	<array/>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict/>
+	<key>webaddress</key>
+	<string>https://github.com/yskoht/alfred-open-github</string>
+</dict>
+</plist>
